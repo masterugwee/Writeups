@@ -16,5 +16,4 @@ The input is handled by fgets the lenght is defined as 27, so the input should b
 
 Opening up the functions reveals another info on how the input is being manipulated. Each function is a mathematical equation 
 for cross-checking the inputs. This is where the z3 library in python comes in handy. We can create a model using z3, implement the conditions 
-present in the functions to create a script that produces the desired input, which is the flag. Finally re-arranging the values in the 
-in the order they were taken up in the functions would present us the flag. 
+present in the functions to create a script that produces the desired input, which is the flag. Finally re-arranging the values in the order they were taken up in the functions would present us the flag.
